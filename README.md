@@ -36,7 +36,6 @@ Add card_mod to your card's YAML configuration:
  
 yaml
 type: entities
-# ... other card configurations ...
 card_mod:
   style: |
     ha-card {
